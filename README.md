@@ -1,4 +1,4 @@
-# WorkinC Projeto Integrado Multidisciplinar, desenvolvido em C.
+#Projeto Integrado Multidisciplinar, desenvolvido em C.
 
 Projeto consiste em uma Startup de infraestrutura de T.I., utilizando um programa de chamados desenvolvido em C, para cadastrar seus usuários e clientes, possibilitando trabalho mútuo de usuários.
 
